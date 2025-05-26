@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-1- Word Memory game
-2- Simple 2D game
-3- Simple RPG game
+yahoo reincnaration
 
 - 🌱 I’m currently learning C#, C++, SQL
 - 👯 I’m looking to collaborate on ...
